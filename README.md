@@ -1,9 +1,9 @@
 <br/>
 <p align="center">
   <a href="https://github.com/RAJCHAKRABORTY3416/wave-weather-bot">
-    <img src="https://github.com/RAJCHAKRABORTY3416/wave-weather-bot/assets/76038637/8387bec7-f135-4653-9632-75a3e7040045" alt="Logo" width="150" height="150">
+    <img src="https://github.com/RAJCHAKRABORTY3416/wave-weather-bot/assets/76038637/da6c565f-6c4b-4569-9d40-9513efa48760" alt="Logo" width="150" height="150">
   </a>
-  
+
   <h3 align="center">Telegram Weather Bot</h3>
 
   <p align="center">
@@ -98,7 +98,8 @@ const OPEN_WEATHER_MAP_API_KEY = 'your_weather_api_key';
    
 ## Output & Deploy⬇️
 
-![White and Beige Minimalist Fashion Photo Collage](https://github.com/RAJCHAKRABORTY3416/wave-weather-bot/assets/76038637/fa9696a7-b914-40da-8b52-62c95f87072e)
+![White and Beige Minimalist Fashion Photo Collage](https://github.com/RAJCHAKRABORTY3416/wave-weather-bot/assets/76038637/f176cbf4-f51f-45bf-b482-a609ae7b0c11)
+
 
 Once the bot runs, users can interact with it within Telegram by sending location details and receiving weather reports in response.
 
