@@ -111,7 +111,7 @@ Contributions are what makes the open-source community such an amazing place to 
 * If you have suggestions for adding or removing projects, feel free to [open an issue](https://github.com/RAJCHAKRABORTY3416/wave-weather-bot/issues/new) to discuss it, or directly create a pull request after you edit the **README.md** file with necessary changes.
 * Please make sure you check your spelling and grammar.
 * Create individual PR for each suggestion.
-* Please also read through the [Code Of Conduct](https://github.com/RAJCHAKRABORTY3416/wave-weather-bot/blob/main/CODE_OF_CONDUCT.md) before posting your first idea as well.
+* Please also read through the [Code Of Conduct](https://docs.github.com/en/site-policy/github-terms/github-community-code-of-conduct) before posting your first idea as well.
 
 ### ✯ Creating A Pull Request✅
 
