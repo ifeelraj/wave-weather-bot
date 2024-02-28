@@ -1,8 +1,8 @@
 const { Telegraf } = require('telegraf');
 const axios = require('axios');
 
-const bot = new Telegraf('7001517564:AAGnaaHpa8zfLkGJ_yx5pxHaRjBZCO1cKjE');
-const OPEN_WEATHER_MAP_API_KEY = 'f575dcfc5f3c2768801578fa48d2c5a6';
+const bot = new Telegraf('YOUR_BOT_TOKEN');
+const OPEN_WEATHER_MAP_API_KEY = 'YOUR_WEATHER_API_KEY';
 
 
 bot.start((ctx) => ctx.reply('Welcome to wave !! Please enter a city name, area name, or pin code to get the real time weather forecast.'));
