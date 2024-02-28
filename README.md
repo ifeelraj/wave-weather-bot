@@ -41,7 +41,7 @@
 
 ![Screen Shot](https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/063/854/original/LP.webp?1706698719)
 
-This Project is developed for the **Scaler Discord** Node.js Project Building challenge. Embark on a journey through the skies with **Wave - A realtime weather forecast bot**, the groundbreaking Telegram bot designed to deliver real-time weather updates straight to your fingertips. Crafted with precision and powered by Node.js, WeatherWise seamlessly integrates with Telegram, bringing the latest meteorological insights right to your preferred chat platform.
+This Project is developed for the **Scaler Discord** Node.js Project Building challenge. Embark on a journey through the skies with **Wave - A realtime weather forecast bot**, the groundbreaking Telegram bot designed to deliver real-time weather updates straight to your fingertips. Crafted with precision and powered by Node.js, wave seamlessly integrates with Telegram, bringing the latest meteorological insights right to your preferred chat platform.
 
 ## Built With🧑‍💻
 
