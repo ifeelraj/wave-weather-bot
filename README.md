@@ -10,7 +10,7 @@
     Bringing weather updates to your fingertips, rain or shine, with our real-time Telegram weather bot 
     <br/>
     <br/>
-    <a href="https://checker-cornucopia-d77.notion.site/Documentation-3ac95a54983a4a1dac232087236871d1?pvs=4"><strong>Explore the docs »</strong></a>
+    <a href="https://checker-cornucopia-d77.notion.site/Documentation-507561135d4f4d1b9cd89116e6bc11b9?pvs=4"><strong>Explore the docs »</strong></a>
     <br/>
     <br/>
     <a href="https://github.com/RAJCHAKRABORTY3416/wave-weather-bot">View Demo</a>
